@@ -1,0 +1,1 @@
+python D:\Users\gurkan.sahin\Desktop\NLP\cnn_text_class\Main.py -input_dir D:\Users\gurkan.sahin\Desktop\NLP\cnn_text_class\1150haber -epoch 10 -batch 10 -lr 0.0001 -drop 0 -k_char_stem 5 -max_sentence_len 50 -word_embedding_size 100 -n_class 5
